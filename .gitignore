@@ -1,0 +1,4 @@
+growth_marketing.db
+data/*.json
+__pycache__/
+*.pyc
